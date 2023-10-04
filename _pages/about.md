@@ -11,7 +11,7 @@ redirect_from:
 Suyash Pradhan is a first year Ph.D student in Computer Engineering at Northeastern University. He works as a Research Assistant under the guidance of Professor Kaushik Chowdhury in GENESYS Lab. My research revolves around exploring the bidirectional relationship between Machine Learning and Next Generation (5G / 6G) Wireless Communication Systems. 
 
 -
--Research Focus
+- Research Focus
 -======
 
 - ML for Wireless and Wireless for ML - Federeated Learning for Channel Estimation, Over-the-Air Compute for commmunication-effective Federated Learning
