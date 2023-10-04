@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Digital Twins for Maintaining QoS in Programmable Vehicular Networks"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper is a vision for future V2X networks equipped with programmable base stations and Reconfigurble Intelligent Surfaces (RIS) to mitigate the frequent blockages in dynamic vehicular networks. In our method, a LiDAR sensor mounted autonomous car detects obstacles between itself and the base station (BS) it is connected to during its voyage in order to predict NLOS situations, which are then reported to the BS, where the digital twin is deployed. '
+date: "May 2023"
+venue: 'IEEE Network Magazine'
+paperurl: 'https://genesys-lab.org/papers/Digital_Twins_2023-.pdf'
+citation: 'U. Demir, S. Pradhan, R. Kumahia, D. Roy, S. Ioannidis, and K. Chowdhury, "Digital Twins for Maintaining QoS in Programmable Vehicular Networks," in IEEE Network Magazine, May 2023.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is a vision for future V2X networks equipped with programmable base stations and Reconfigurble Intelligent Surfaces (RIS) to mitigate the frequent blockages in dynamic vehicular networks. In our method, a LiDAR sensor mounted autonomous car detects obstacles between itself and the base station (BS) it is connected to during its voyage in order to predict NLOS situations, which are then reported to the BS, where the digital twin is deployed. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://genesys-lab.org/papers/Digital_Twins_2023-.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+U. Demir, S. Pradhan, R. Kumahia, D. Roy, S. Ioannidis, and K. Chowdhury, "Digital Twins for Maintaining QoS in Programmable Vehicular Networks," in IEEE Network Magazine, May 2023.
