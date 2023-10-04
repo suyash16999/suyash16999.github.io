@@ -13,8 +13,7 @@ Suyash Pradhan is a first year Ph.D student in Computer Engineering at Northeast
 Research Focus
 -======
 
-- ML for Wireless and Wireless for ML - Federeated Learning for Channel Estimation, Over-the-Air Compute for commmunication-effective Federated Learning
-- Machine Learning for Wireless Communication Systems : Implementing components of 5-G communication systems with suitable Deep Learning modules and testing the end-to-end pipeline
+- ML for Wireless and Wireless for ML - Federeated Learning for Channel Estimation, Over-the-Air Compute for commmunication-effective Federated Learning, Connecting 5-G communication modules with suitable Deep Learning counterparts and testing the end-to-end pipeline
 - Digital Twins for V2X networks : Emulation of autonomous car environment to generate synthetic image and LiDAR samples, Ray Tracing to model propagation effects, Sim2Real Domain Adaptation
 - Sensing and AI for connectivity in self-driving cars : Multimodal Data Fusion and Co-operative Perception to improve V2X connectivity
 
