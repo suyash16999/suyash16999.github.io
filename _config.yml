@@ -83,10 +83,10 @@ author:
   name             : "Suyash Pradhan"
   avatar           : "profile.png"
   bio              : "Ph.D. student in Computer Engineering at The University of Texas at Austin"
-  location         : "Boston, MS, USA"
+  location         : "Austin, TX, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=x8ny0kEAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
