@@ -17,13 +17,19 @@ Education
 
 Work experience
 ======
-* Fall 2023 - Present: Stipended Graduate Research Assistant
+
+* Sept 2024 - Present: Graduate Research Assistant
+  * The University of Texas at Austin
+  * Duties included: Conducting research on AI-enabled wireless systems, over-the-air federated learning, and V2X digital twins. Developing and testing algorithms on real-world software-defined radio  (SDR) testbeds.
+  * Supervisor: Professor Kaushik Chowdhury
+
+* Sept 2023 - Aug 2024: Stipended Graduate Research Assistant
   * Northestern University
   * Duties included: Applying Federated Learning to perform Channel Estimation in 5 G networks and exploring Air Computation to reduce the communication overhead. Enabling the design of end-to-end Learnable Wireless Communication Systems.
   * Supervisor: Professor Kaushik Chowdhury
 
-* Fall 2022 - Summer 2023: Research Assistant
-  * Github University
+* Sept 2022 - Aug 2023: Research Assistant
+  * Northeastern University
   * Duties included: Creating a Digital Twin to enable efficient V2I communication in self-driving cars using visual and position sensors and Deep Learning models
   * Supervisor: Professor Kaushik Chowdhury
   
