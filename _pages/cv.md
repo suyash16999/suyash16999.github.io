@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
+
+* Ph.D in Computer Engineering, The University of Texas at Austin, Present
+
+* M.S. in Electrical and Computer Engineering, Northeastern University, Dec 2023 
+
 * B.Tech. in Electronics Engineering, VJTI, 2021
-* M.S. in Electrical and Computer Engineering, Northeastern University, Dec 2023 (expected)
-* Ph.D in Computer Engineering, Northeastern University, 2027 (expected)
 
 Work experience
 ======
