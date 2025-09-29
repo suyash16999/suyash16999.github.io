@@ -38,11 +38,10 @@ Work experience
   
 Skills
 ======
-* Wireless Communication
-* Deep Learning
-  * PyTorch
-  * Tensorflow
-* Computer Vision
+• Programming Languages: Python, MATLAB, C/C++, Java, JavaScript, GoLang
+• Simulation Softwares - Blender, Blensor, Wireless Insite, NVIDIA Sionna and SionnaRT
+• Software Tools – Tensorflow, PyTorch, Ubuntu, GNURadio, UHD, OAI, OpenCV, Docker, Git, Github
+• Hardware Platforms – USRP X310, USRP X410, USRP 2974, Talon AD7200 60 GHz Wi-fi Routers, Raspberry Pi 3B
 
 Publications
 ======
